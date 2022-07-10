@@ -24,6 +24,8 @@ describe("Articles lenght", () => {
   it("", () => {
     cy.contains("azami");
     cy.contains("osim");
-    cy.contains('aziz')
+    cy.contains("aziz");
+
+    console.log("helllo");
   });
 });
