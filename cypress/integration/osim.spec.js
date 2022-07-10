@@ -25,4 +25,8 @@ describe ('Articles lenght', () => {
 
 
     })
+
+    it ('', () => {
+        cy.contains('azami')
+    })
 })
